@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.1.0/SCAtlas-Setup-1.1.0.exe",
+  "changelog": "- Ajout du démarrage Windows\n- Ajout de SCMDB FR\n- Corrections UI et navigation"
+}
