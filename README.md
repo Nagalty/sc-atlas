@@ -143,12 +143,3 @@ D’autres outils communautaires pourront être ajoutés plus tard si ça a un v
 - SCMDB FR s’ouvre dans le navigateur, ce n’est pas un module embarqué
 
 ---
-```md
-## Captures
-
-Tu peux ajouter ici plus tard des captures de l’application :
-
-
-![Accueil](./Assets/screenshot-home.png)
-![Traduction](./Assets/screenshot-translation.png)
-![Cache](./Assets/screenshot-cache.png)
