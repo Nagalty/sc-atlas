@@ -143,3 +143,19 @@ D’autres outils communautaires pourront être ajoutés plus tard si ça a un v
 - SCMDB FR s’ouvre dans le navigateur, ce n’est pas un module embarqué
 
 ---
+## Crédits
+
+**SC Atlas**  
+Application créée et développée par **Nagalty**.
+
+**Star Citizen**  
+Jeu développé par **Cloud Imperium Games**.
+
+**SCMDB FR**  
+Accès rapide intégré dans SC Atlas vers la version française de **SCMDB**, ressource communautaire externe dédiée à Star Citizen.
+
+**Traduction française Star Citizen**  
+La traduction utilisée et distribuée via SC Atlas s’inscrit dans un cadre **communautaire**.  
+Merci à toutes les personnes qui participent, de près ou de loin, à rendre le jeu plus accessible aux joueurs francophones.
+
+---
