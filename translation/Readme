@@ -1,0 +1,29 @@
+# SC Atlas - Traduction FR enrichie pour Star Citizen
+
+Ce dépôt héberge une version enrichie du fichier `global.ini` français pour Star Citizen.
+
+## Contenu
+
+Cette version est basée sur la traduction française communautaire du Cirque Lisoir et de la communauté FR.
+
+Elle ajoute une couche d’information gameplay autour des missions pouvant donner des plans :
+
+- `[PL]` : mission pouvant donner un plan
+- `[PL]*` : mission liée à des plans, mais avec condition, variante ou cas spécifique
+- `Plans potentiels` : liste des plans pouvant être obtenus
+
+Les noms d’objets, armes, armures et composants sont conservés en anglais afin de faciliter la recherche en jeu et sur les bases de données.
+
+## Crédits
+
+Traduction FR d’origine : Cirque Lisoir et communauté FR  
+Adaptation complémentaire : Nagalty / SC Atlas
+
+## Utilisation
+
+Le fichier peut être téléchargé via SC Atlas ou installé manuellement dans le dossier de localisation française de Star Citizen.
+
+## Avertissement
+
+Projet communautaire non officiel.  
+Star Citizen est une marque de Cloud Imperium Games.
