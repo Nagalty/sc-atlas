@@ -2,5 +2,12 @@
   "translation_version": "4.7.1-1.12-20260424-pl",
   "star_citizen_version": "4.7.2",
   "last_update": "24/04/2026",
-  "download_url": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/translation/global.ini"
+  "download_url": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/translation/global.ini",
+  "changelog": [
+    "Ajout des balises [PL] sur les missions pouvant donner un plan",
+    "Ajout des balises [PL]* sur les missions liées à des plans avec condition, variante ou cas spécifique",
+    "Ajout des sections Plans potentiels dans les descriptions de missions concernées",
+    "Adaptation des données de plans depuis le fichier enrichi de MrKraken",
+    "Correction d'une balise EM4 déséquilibrée"
+  ]
 }
