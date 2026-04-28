@@ -1,9 +1,3 @@
 {
-  "enabled": false,
-  "type": "error",
-  "category": "sc-atlas",
-  "title": "Incident temporaire",
-  "date": "28/04/2026",
-  "message": "Un problème temporaire est en cours de vérification.",
-  "url": ""
-}
+  "enabled": true,
+  "type": "info",
