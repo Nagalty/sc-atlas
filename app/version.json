@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.2.0/SCAtlas-Setup-1.2.0.exe",
-  "changelog": "SC Atlas v1.2.0 apporte une nouvelle page d’accueil, la détection automatique du dossier Star Citizen, un diagnostic rapide, une amélioration du choix manuel, une meilleure gestion des chemins suspects, un diagnostic complet plus cohérent, des actions rapides avec icônes et plusieurs améliorations visuelles et UX."
+  "version": "1.3.0",
+  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.3.0/SCAtlas-Setup-1.3.0.exe",
+  "changelog": "SC Atlas v1.3.0 améliore fortement l’interface : sidebar retravaillée, pages Accueil, Traduction, Cache, Paramètres, À propos et SCMDB FR polishées, bannière améliorée, meilleure gestion des mises à jour au lancement et notifications plus propres avec le systray."
 }
