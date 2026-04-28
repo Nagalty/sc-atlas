@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "info",
-  "category": "sc-atlas",
-  "title": "Test sans lien",
+  "type": "warning",
+  "category": "star-citizen",
+  "title": "Star Citizen 4.8 arrive bientôt",
   "date": "28/04/2026",
-  "message": "Ce test vérifie que le bloc fonctionne sans bouton.",
+  "message": "Une grosse mise à jour peut nécessiter une nouvelle version de la traduction FR.",
   "url": ""
 }
