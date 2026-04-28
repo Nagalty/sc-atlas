@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "info",
   "category": "sc-atlas",
-  "title": "SC Atlas v1.4 en préparation",
+  "title": "Test sans lien",
   "date": "28/04/2026",
-  "message": "Ajout d’un bloc d’actualité sur l’accueil pour afficher les informations importantes de SC Atlas et, ponctuellement, une grosse actualité Star Citizen.",
-  "url": "https://github.com/Nagalty/sc-atlas/releases"
+  "message": "Ce test vérifie que le bloc fonctionne sans bouton.",
+  "url": ""
 }
