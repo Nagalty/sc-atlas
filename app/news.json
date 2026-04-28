@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "warning",
-  "category": "star-citizen",
-  "title": "Star Citizen 4.8 arrive bientôt",
+  "type": "ok",
+  "category": "translation",
+  "title": "Traduction à jour",
   "date": "28/04/2026",
-  "message": "Une grosse mise à jour peut nécessiter une nouvelle version de la traduction FR.",
+  "message": "La dernière version de la traduction FR est disponible.",
   "url": ""
 }
