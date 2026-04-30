@@ -1,0 +1,87 @@
+{
+  "version": "SC 4.8.0 - test",
+  "last_update": "30/04/2026",
+  "plans": [
+    {
+      "id": "devastator_shotgun_battery_12",
+      "name_fr": "Batterie de fusil à pompe Devastator (12 charges)",
+      "category": "Chargeur",
+      "source": "Mission",
+      "system": "Pyro",
+      "reputation": "Headhunters",
+      "missions": [
+        "Contrat en espace profond",
+        "Lâcher un XenoThreat",
+        "Besoin de démonter un CFP"
+      ]
+    },
+    {
+      "id": "laser_prism_shotgun_battery_20",
+      "name_fr": "Batterie de fusil à pompe Laser Prism (20 charges)",
+      "category": "Chargeur",
+      "source": "Mission",
+      "system": "Pyro",
+      "reputation": "Citizens for Prosperity",
+      "missions": [
+        "Récupération sous pression",
+        "Marchandise sensible",
+        "Intervention dans les zones contestées"
+      ]
+    },
+    {
+      "id": "aril_bracers",
+      "name_fr": "Brassards Aril",
+      "category": "Armure",
+      "source": "Mission",
+      "system": "Stanton",
+      "reputation": "Générique",
+      "missions": [
+        "Contrat de récupération",
+        "Nettoyage de bunker"
+      ]
+    },
+    {
+      "id": "artimex_bracers",
+      "name_fr": "Brassards Artimex",
+      "category": "Armure",
+      "source": "Mission",
+      "system": "Stanton",
+      "reputation": "Sécurité locale",
+      "missions": [
+        "Assistance sécurité",
+        "Neutralisation hostile"
+      ]
+    },
+    {
+      "id": "fs9_magazine_75",
+      "name_fr": "Chargeur FS-9 (75 coups)",
+      "name": "FS-9 Magazine (75 cap)",
+      "category": "Chargeur",
+      "source": "Mission",
+      "system": "Pyro",
+      "reputation": "HeadHunters",
+      "missions": [
+        "Destruction de Données Volées HeadHunter",
+        "Détruire les Serveurs de Données Hors-la-loi",
+        "Destruction de Serveur de Données XenoThreat"
+      ],
+      "craft": {
+        "time_seconds": 10,
+        "resources": [
+          {
+            "group": "Magazine",
+            "name": "Hephaestanite",
+            "quantity_scu": 0.03,
+            "min_quality": 0
+          },
+          {
+            "group": "Core",
+            "name": "Iron",
+            "quantity_scu": 0.03,
+            "min_quality": 0
+          }
+        ]
+      }
+    }
+  ]
+}
