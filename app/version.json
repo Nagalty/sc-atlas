@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.3.0/SCAtlas-Setup-1.3.0.exe",
-  "changelog": "SC Atlas v1.3.0 améliore fortement l’interface : sidebar retravaillée, pages Accueil, Traduction, Cache, Paramètres, À propos et SCMDB FR polishées, bannière améliorée, meilleure gestion des mises à jour au lancement et notifications plus propres avec le systray."
+  "version": "1.4.0",
+  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.4.0/SCAtlas-Setup-1.4.0.exe",
+  "changelog": "SC Atlas 1.4.0\n\n- Publication Microsoft Store.\n- Améliorations de l’accueil.\n- Diagnostic d’installation.\n- Gestion de la traduction FR.\n- Gestion du cache.\n- Presets de personnage.\n- Correctifs et stabilisation."
 }
