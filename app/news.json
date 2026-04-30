@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "info",
+  "type": "success",
   "category": "sc-atlas",
-  "title": "SC Atlas v1.4 en préparation",
-  "date": "28/04/2026",
-  "message": "Ajout d’un bloc d’actualité sur l’accueil pour afficher les informations importantes de SC Atlas et, ponctuellement, une grosse actualité Star Citizen.",
-  "url": "https://github.com/Nagalty/sc-atlas/releases"
+  "title": "SC Atlas est disponible sur le Microsoft Store",
+  "date": "30/04/2026",
+  "message": "La version 1.4.0 de SC Atlas est maintenant disponible publiquement sur le Microsoft Store. Cette version permet d’installer la traduction FR communautaire, de vérifier l’installation, de gérer le cache et d’accéder rapidement aux ressources utiles.",
+  "url": "https://apps.microsoft.com/detail/TON_ID_STORE"
 }
