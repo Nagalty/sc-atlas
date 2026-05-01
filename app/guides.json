@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "source": "SC Atlas Toolbox",
+  "exportType": "public",
+  "generatedAt": "2026-05-01T10:37:24.2211273+02:00",
+  "totalGuides": 1,
+  "guides": [
+    {
+      "id": "tactical-strike-groups",
+      "title": "Tactical Strike Groups",
+      "subtitle": "Guide FR de la mission Star Citizen 4.8",
+      "category": "Mission",
+      "gameVersion": "4.8",
+      "updatedAt": "2026-05-01",
+      "blockCount": 4,
+      "blocks": [
+        {
+          "order": 1,
+          "title": "Introduction",
+          "image": "guides/tactical-strike-groups/01-image.png",
+          "text": "bon bah c'est le debut du guide la tu veux quoi gamin"
+        },
+        {
+          "order": 2,
+          "title": "",
+          "image": "guides/tactical-strike-groups/02-image.png",
+          "text": ""
+        },
+        {
+          "order": 3,
+          "title": "",
+          "image": "guides/tactical-strike-groups/03-image.png",
+          "text": ""
+        },
+        {
+          "order": 4,
+          "title": "coucou",
+          "image": "guides/tactical-strike-groups/04-image.png",
+          "text": "bonjour vous"
+        }
+      ]
+    }
+  ]
+}
