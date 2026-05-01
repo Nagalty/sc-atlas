@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "source": "SC Atlas Toolbox",
   "exportType": "public",
-  "generatedAt": "2026-05-01T10:37:24.2211273+02:00",
-  "totalGuides": 1,
+  "generatedAt": "2026-05-01T11:40:01.3251234+02:00",
+  "totalGuides": 2,
   "guides": [
     {
       "id": "tactical-strike-groups",
@@ -12,31 +12,48 @@
       "category": "Mission",
       "gameVersion": "4.8",
       "updatedAt": "2026-05-01",
+      "blockCount": 1,
+      "blocks": [
+        {
+          "order": 1,
+          "title": "",
+          "image": "guides/tactical-strike-groups/01-image.jpg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "rock-breaker",
+      "title": "Rock Breaker",
+      "subtitle": "Guide FR de la mission Star Citizen 4.7",
+      "category": "Mission PVPVE / PVE",
+      "gameVersion": "",
+      "updatedAt": "2026-05-01",
       "blockCount": 4,
       "blocks": [
         {
           "order": 1,
           "title": "Introduction",
-          "image": "guides/tactical-strike-groups/01-image.png",
-          "text": "bon bah c'est le debut du guide la tu veux quoi gamin"
+          "image": "guides/rock-breaker/01-image.png",
+          "text": "c'est le début gamin"
         },
         {
           "order": 2,
           "title": "",
-          "image": "guides/tactical-strike-groups/02-image.png",
+          "image": "guides/rock-breaker/02-image.png",
           "text": ""
         },
         {
           "order": 3,
           "title": "",
-          "image": "guides/tactical-strike-groups/03-image.png",
+          "image": "guides/rock-breaker/03-image.png",
           "text": ""
         },
         {
           "order": 4,
-          "title": "coucou",
-          "image": "guides/tactical-strike-groups/04-image.png",
-          "text": "bonjour vous"
+          "title": "",
+          "image": "guides/rock-breaker/04-image.png",
+          "text": "coucou"
         }
       ]
     }
