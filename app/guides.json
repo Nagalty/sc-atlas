@@ -2,10 +2,11 @@
   "schemaVersion": 1,
   "source": "SC Atlas Toolbox",
   "exportType": "public",
-  "generatedAt": "2026-05-01T11:40:01.3251234+02:00",
+  "generatedAt": "2026-05-01T17:24:59.4629986+02:00",
   "totalGuides": 2,
   "guides": [
     {
+      "order": 1,
       "id": "tactical-strike-groups",
       "title": "Tactical Strike Groups",
       "subtitle": "Guide FR de la mission Star Citizen 4.8",
@@ -23,6 +24,7 @@
       ]
     },
     {
+      "order": 2,
       "id": "rock-breaker",
       "title": "Rock Breaker",
       "subtitle": "Guide FR de la mission Star Citizen 4.7",
