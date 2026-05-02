@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "SC Atlas Toolbox",
   "exportType": "public",
-  "generatedAt": "2026-05-01T17:24:59.4629986+02:00",
+  "generatedAt": "2026-05-03T00:35:38.1518433+02:00",
   "totalGuides": 2,
   "guides": [
     {
@@ -25,37 +25,19 @@
     },
     {
       "order": 2,
-      "id": "rock-breaker",
-      "title": "Rock Breaker",
-      "subtitle": "Guide FR de la mission Star Citizen 4.7",
-      "category": "Mission PVPVE / PVE",
+      "id": "contrebandier-vanduul",
+      "title": "Contrebandiers Tech Vanduul",
+      "subtitle": "Guide FR de la mission Star Citizen 4.4",
+      "category": "Mission PVE",
       "gameVersion": "",
       "updatedAt": "2026-05-01",
-      "blockCount": 4,
+      "blockCount": 1,
       "blocks": [
         {
           "order": 1,
-          "title": "Introduction",
-          "image": "guides/rock-breaker/01-image.png",
-          "text": "c'est le début gamin"
-        },
-        {
-          "order": 2,
           "title": "",
-          "image": "guides/rock-breaker/02-image.png",
+          "image": "guides/contrebandier-vanduul/01-image.jpg",
           "text": ""
-        },
-        {
-          "order": 3,
-          "title": "",
-          "image": "guides/rock-breaker/03-image.png",
-          "text": ""
-        },
-        {
-          "order": 4,
-          "title": "",
-          "image": "guides/rock-breaker/04-image.png",
-          "text": "coucou"
         }
       ]
     }
