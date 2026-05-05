@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "success",
+  "type": "warning",
   "category": "sc-atlas",
-  "title": "SC Atlas est disponible sur le Microsoft Store",
-  "date": "30/04/2026",
-  "message": "La version 1.4.0 de SC Atlas est maintenant disponible publiquement sur le Microsoft Store. Cette version permet d’installer la traduction FR communautaire, de vérifier l’installation, de gérer le cache et d’accéder rapidement aux ressources utiles.",
+  "title": "SC Atlas 1.5.0 est disponible",
+  "date": "05/05/2026",
+  "message": "La mise à jour 1.5.0 de SC Atlas est maintenant disponible. Elle ajoute la Collection de plans avec suivi possédé / manquant, contrats associés et ressources de craft, une section Guides communautaires FR avec images zoomables, ainsi qu’un bouton pour lancer Star Citizen via le RSI Launcher. Important : si vous utilisez la version Microsoft Store de SC Atlas, mettez l’application à jour uniquement depuis le Microsoft Store. N’installez pas la version GitHub par-dessus la version Store. Un problème présent en 1.4.0 a été corrigé dans cette version.",
   "url": "https://apps.microsoft.com/detail/9pm8p6sfh6mq?hl=fr-FR&gl=FR"
 }
