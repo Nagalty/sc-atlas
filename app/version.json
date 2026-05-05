@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.4.0/SCAtlas-Setup-1.4.0.exe",
-  "changelog": "SC Atlas 1.4.0\n\n- Publication Microsoft Store.\n- Améliorations de l’accueil.\n- Diagnostic d’installation.\n- Gestion de la traduction FR.\n- Gestion du cache.\n- Presets de personnage.\n- Correctifs et stabilisation."
+  "version": "1.5.0",
+  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.5.0/SCAtlas-Setup-1.5.0.exe",
+  "changelog": "SC Atlas 1.5.0\n\n- Ajout de la Collection de plans.\n- Suivi des plans possédés / manquants.\n- Affichage des contrats associés aux plans.\n- Ajout des ressources de craft disponibles.\n- Ajout de la section Guides communautaires FR.\n- Viewer d’images avec zoom, plein écran, déplacement à la souris et raccourcis clavier.\n- Ajout du lancement de Star Citizen via RSI Launcher.\n- Amélioration de la persistance locale des plans possédés.\n- Optimisations RAM sur les guides et les images.\n- Polish général et stabilisation."
 }
