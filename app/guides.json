@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "SC Atlas Toolbox",
   "exportType": "public",
-  "generatedAt": "2026-05-03T00:35:38.1518433+02:00",
+  "generatedAt": "2026-05-13T14:48:26.4465209+02:00",
   "totalGuides": 2,
   "guides": [
     {
@@ -13,12 +13,18 @@
       "category": "Mission",
       "gameVersion": "4.8",
       "updatedAt": "2026-05-01",
-      "blockCount": 1,
+      "blockCount": 2,
       "blocks": [
         {
           "order": 1,
-          "title": "",
+          "title": "Tactical Strike Groups",
           "image": "guides/tactical-strike-groups/01-image.jpg",
+          "text": "Guide en 1 page"
+        },
+        {
+          "order": 2,
+          "title": "Carte Tactique Trench Runner",
+          "image": "guides/tactical-strike-groups/02-image.jpg",
           "text": ""
         }
       ]
