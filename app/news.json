@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "warning",
   "category": "sc-atlas",
-  "title": "SC Atlas 1.5.0 est disponible",
-  "date": "05/05/2026",
-  "message": "La mise à jour 1.5.0 de SC Atlas est maintenant disponible. Elle ajoute la Collection de plans avec suivi possédé / manquant, contrats associés et ressources de craft, une section Guides communautaires FR avec images zoomables, ainsi qu’un bouton pour lancer Star Citizen via le RSI Launcher. Important : si vous utilisez la version Microsoft Store de SC Atlas, mettez l’application à jour uniquement depuis le Microsoft Store. N’installez pas la version GitHub par-dessus la version Store. Un problème présent en 1.4.0 a été corrigé dans cette version.",
+  "title": "Star Citizen 4.8 arrive : traduction en préparation",
+  "date": "13/05/2026",
+  "message": "La mise à jour Star Citizen 4.8 arrive aujourd’hui ou cette nuit. Je commence le travail sur la mise à jour de la traduction FR dès que les nouveaux fichiers seront disponibles. Pendant cette période, certaines lignes peuvent rester en anglais ou ne pas encore correspondre parfaitement à la nouvelle version du jeu. SC Atlas sera mis à jour dès que possible.",
   "url": "https://apps.microsoft.com/detail/9pm8p6sfh6mq?hl=fr-FR&gl=FR"
 }
