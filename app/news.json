@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "type": "success",
-  "category": "translation",
-  "title": "Traduction Star Citizen 4.8 disponible",
-  "date": "14/05/2026",
-  "message": "La traduction française pour Star Citizen 4.8 est maintenant disponible dans SC Atlas. Cette mise à jour intègre la nouvelle base FR 4.8, les blocs Plans potentiels liés aux blueprints, ainsi que l’ adaptation SC Atlas. Pensez à mettre à jour la traduction depuis l’ application avant de lancer le jeu.",
+  "type": "info",
+  "category": "sc-atlas",
+  "title": "Précision sur les tags [PL]",
+  "date": "15/05/2026",
+  "message": "La traduction Star Citizen 4.8 et la base des plans ont été mises à jour. Le tag [PL] dans un titre indique qu’une famille de missions peut proposer des plans. Comme Star Citizen réutilise parfois le même titre pour plusieurs variantes, certaines missions peuvent afficher [PL] sans avoir de bloc “Plans potentiels” dans leur description. Le bloc “Plans potentiels” reste l’information fiable.",
   "url": "https://apps.microsoft.com/detail/9pm8p6sfh6mq?hl=fr-FR&gl=FR"
 }
