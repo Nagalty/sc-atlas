@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.5.0/SCAtlas-Setup-1.5.0.exe",
-  "changelog": "SC Atlas 1.6.0 est temporairement suspendu.\n\nUn problème de lecture/migration des plans possédés a été détecté après publication. La version recommandée reste SC Atlas 1.5.0 le temps de publier un correctif."
+  "version": "1.6.0",
+  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.6.0/SCAtlas-Setup-1.6.0.exe",
+  "changelog": "SC Atlas 1.6.0\n\n- Ajout de l’export / import des données utilisateur.\n- Restauration des plans possédés, paramètres, état de lecture et données locales utiles.\n- Création automatique d’une sauvegarde de sécurité avant import.\n- Les caches Guides / Plans ne sont pas écrasés lors de l’import.\n- Amélioration de la compatibilité Microsoft Store et du stockage local isolé.\n- Amélioration de l’affichage des chemins de cache pour éviter les chemins techniques trop longs dans l’interface.\n- Ajout d’une page Support technique plus complète avec rapport enrichi.\n- Préparation d’e-mail de support sans envoi automatique.\n- Amélioration de la conservation des plans possédés entre cache local et source GitHub.\n- Amélioration du cache local des Guides / Plans.\n- Polish des fenêtres de dialogue.\n- Scrollbars sombres globales harmonisées.\n- Page À propos améliorée avec la carte “Créé par la communauté”.\n- Correction de l’état “Lancer SC Atlas au démarrage de Windows” après import.\n- Corrections visuelles et stabilisation générale."
 }
