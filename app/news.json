@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "info",
   "category": "sc-atlas",
-  "title": "Précision sur les tags [PL]",
-  "date": "15/05/2026",
-  "message": "La traduction Star Citizen 4.8 et la base des plans ont été mises à jour. Le tag [PL] dans un titre indique qu’une famille de missions peut proposer des plans. Comme Star Citizen réutilise parfois le même titre pour plusieurs variantes, certaines missions peuvent afficher [PL] sans avoir de bloc “Plans potentiels” dans leur description. Le bloc “Plans potentiels” reste l’information fiable.",
-  "url": "https://apps.microsoft.com/detail/9pm8p6sfh6mq?hl=fr-FR&gl=FR"
+  "title": "SC Atlas 1.6.0 est disponible",
+  "date": "26/05/2026",
+  "message": "SC Atlas 1.6.0 améliore la fiabilité des données locales avec l’export/import utilisateur, renforce la compatibilité Microsoft Store, ajoute un support technique plus complet et polish plusieurs fenêtres de l’application. Les caches Guides/Plans et les plans possédés restent conservés correctement.",
+  "url": ""
 }
