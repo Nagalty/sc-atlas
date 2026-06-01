@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "info",
   "category": "sc-atlas",
-  "title": "SC Atlas 1.6.0 est disponible",
-  "date": "26/05/2026",
-  "message": "SC Atlas 1.6.0 améliore la fiabilité des données locales avec l’export/import utilisateur, renforce la compatibilité Microsoft Store, ajoute un support technique plus complet et polish plusieurs fenêtres de l’application. Les caches Guides/Plans et les plans possédés restent conservés correctement.",
-  "url": ""
+  "title": "SC Atlas 1.7.0 est disponible",
+  "date": "01/06/2026",
+  "message": "SC Atlas 1.7.0 est disponible. Cette mise à jour refond la Collection de plans avec le nouveau catalogue SC Atlas v2 : 1539 plans indexés, 1530 recettes, contrats actifs connus, suivi des plans possédés plus fiable et meilleure gestion des variantes. Les contrats inactifs ou non disponibles sont désormais masqués côté public. Important : les utilisateurs Microsoft Store recevront la mise à jour via le Store dès validation.",
+  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.7.0"
 }
