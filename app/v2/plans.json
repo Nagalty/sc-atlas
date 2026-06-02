@@ -3,7 +3,7 @@
   "source": "SC Atlas Toolbox + SCMDB",
   "exportType": "public",
   "version": "4.8-1.14-sc-atlas.4",
-  "generatedAt": "2026-06-02T12:27:00.8831351+02:00",
+  "generatedAt": "2026-06-02T12:47:36.6617377+02:00",
   "totalContracts": 274,
   "totalItems": 3021,
   "uniquePlans": 1539,
@@ -7080,7 +7080,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "48acd0ca-9877-4218-9662-cb5b6f5a211a",
       "craftTag": "BP_CRAFT_klwe_smg_energy_01_mag",
-      "linkedContractsCount": 17,
+      "linkedContractsCount": 15,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -7251,27 +7251,6 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
           "title": "Récupérer, Déposer",
           "rawTitle": null,
@@ -7314,27 +7293,6 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -7348,10 +7306,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         },
@@ -8555,7 +8513,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "34b5ab94-a752-427a-8cc4-757c5797783c",
       "craftTag": "BP_CRAFT_gmni_shotgun_ballistic_01_mag",
-      "linkedContractsCount": 59,
+      "linkedContractsCount": 57,
       "linkedContracts": [
         {
           "key": "scmdb:6932a99c-6b2d-4144-b872-2a0222469a1c",
@@ -9524,27 +9482,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:67a43a4e-3da9-4a30-80d8-b39e597cef79",
           "title": "Réduire la Population de Valakkars dans les Stations Breaker",
           "rawTitle": null,
@@ -9650,27 +9587,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -9684,10 +9600,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         },
@@ -11856,50 +11772,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "c447b13a-2a5a-4183-8f30-d8073ed5ebaa",
       "craftTag": "BP_CRAFT_ksar_smg_energy_01_mag",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -11914,10 +11788,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -14374,50 +14248,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "18346364-4137-4abd-8fa7-b3d223aa3408",
       "craftTag": "BP_CRAFT_rrs_specialist_light_arms_01_01_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -14432,10 +14264,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -19537,50 +19369,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "55e30d7e-527d-48c2-a991-faccd8000c66",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_arms_01_01_12",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -19595,10 +19385,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -19668,50 +19458,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "cc19d747-8a42-44a2-95f9-b643e8a97026",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_arms_01_01_11",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -19726,10 +19474,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -20496,7 +20244,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "c14689b3-71ba-4386-be4a-9ed558d97d4b",
       "craftTag": "BP_CRAFT_kap_combat_heavy_arms_02_07_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -21150,48 +20898,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -21205,10 +20911,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -21278,7 +20984,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "4db9360f-dd3e-4aff-8ada-f79897951cae",
       "craftTag": "BP_CRAFT_kap_combat_heavy_arms_02_04_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -21932,48 +21638,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -21987,10 +21651,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -28503,50 +28167,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "34a54dbc-e45b-482b-a448-07e5f494ee4b",
       "craftTag": "BP_CRAFT_rrs_specialist_light_helmet_01_01_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -28561,10 +28183,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -35840,7 +35462,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "a0cfd9bb-9c32-4679-825c-3c7496b85cc6",
       "craftTag": "BP_CRAFT_kap_combat_heavy_helmet_02_05_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -36494,48 +36116,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -36549,10 +36129,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -36622,7 +36202,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "fc095af7-3ced-4533-970a-007788ca8274",
       "craftTag": "BP_CRAFT_kap_combat_heavy_helmet_02_07_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -37276,48 +36856,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -37331,10 +36869,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -37997,50 +37535,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "43b31eb9-4ca1-4df3-90f9-4accce8aadf9",
       "craftTag": "BP_CRAFT_outlaw_legacy_medium_armor_helmet_01_02_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -38055,10 +37551,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -45236,50 +44732,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "e874d6df-2aee-4a43-91b4-cd77283cca7f",
       "craftTag": "BP_CRAFT_rrs_specialist_light_legs_01_01_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -45294,10 +44748,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -50529,50 +49983,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "23716f0d-967f-446a-b27d-c25062acde29",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_legs_01_01_12",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -50587,10 +49999,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -50661,50 +50073,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "351a1860-0ff7-491a-a1b4-339fc99283ce",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_legs_01_01_11",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -50719,10 +50089,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -51492,7 +50862,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "f43c9684-1a3a-4783-9469-4a61fe0ccc98",
       "craftTag": "BP_CRAFT_kap_combat_heavy_legs_02_07_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -52146,48 +51516,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -52201,10 +51529,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -52275,7 +51603,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "1eff502e-f190-4906-b974-32c117eb1971",
       "craftTag": "BP_CRAFT_kap_combat_heavy_legs_02_04_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -52929,48 +52257,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -52984,10 +52270,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -61271,50 +60557,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "419cb122-24f3-4d62-9fb5-4f0431958eaf",
       "craftTag": "BP_CRAFT_rrs_specialist_light_core_01_01_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -61329,10 +60573,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -66541,50 +65785,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "02703156-1d36-4aa8-913b-579ce01077e5",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_core_01_01_12",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -66599,10 +65801,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -66672,50 +65874,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "3fe2d83c-9490-44cf-8e66-0a8b2b9846c6",
       "craftTag": "BP_CRAFT_outlaw_legacy_armor_medium_core_01_01_11",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -66730,10 +65890,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -67500,7 +66660,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "19bf2ec3-f114-4f27-982f-5236b35fe8c7",
       "craftTag": "BP_CRAFT_kap_combat_heavy_core_02_07_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -68154,48 +67314,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -68209,10 +67327,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -68282,7 +67400,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "c52b8f11-6bdb-49df-ac05-87c3b8fd48be",
       "craftTag": "BP_CRAFT_kap_combat_heavy_core_02_04_01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -68936,48 +68054,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -68991,10 +68067,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -78991,50 +78067,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "135f8c5f-3667-4887-9d7b-c145a586568d",
       "craftTag": "BP_CRAFT_ksar_smg_energy_01_black01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -79049,10 +78083,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -79121,50 +78155,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "6a325380-0126-497e-9b2f-86e8add090a1",
       "craftTag": "BP_CRAFT_ksar_smg_energy_01_firerats01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -79179,10 +78171,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -79251,50 +78243,8 @@
       "hasCraft": true,
       "craftRecipeGuid": "41cf01a5-1600-4017-b0a8-62344627803c",
       "craftTag": "BP_CRAFT_ksar_smg_energy_01",
-      "linkedContractsCount": 3,
+      "linkedContractsCount": 1,
       "linkedContracts": [
-        {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
         {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
@@ -79309,10 +78259,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -87180,7 +86130,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "878240ee-e1ee-47a9-ac1f-fe1b5171619c",
       "craftTag": "BP_CRAFT_gmni_shotgun_ballistic_01_pink_red01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -87834,48 +86784,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -87889,10 +86797,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -87961,7 +86869,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "07eb22f2-17bb-4428-853b-d6777db53038",
       "craftTag": "BP_CRAFT_gmni_shotgun_ballistic_01_red_black01",
-      "linkedContractsCount": 34,
+      "linkedContractsCount": 32,
       "linkedContracts": [
         {
           "key": "scmdb:b420cb29-8e79-4965-ba20-78047e8fd265",
@@ -88615,48 +87523,6 @@
           "legalityLabel": "Légal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -88670,10 +87536,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         }
@@ -96133,7 +94999,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "65011209-ad59-4d41-99da-ffbc8f174863",
       "craftTag": "BP_CRAFT_klwe_smg_energy_01",
-      "linkedContractsCount": 17,
+      "linkedContractsCount": 15,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -96304,27 +95170,6 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:6992076b-a400-4444-a0f5-5752eb459dd5#title:recuperer",
-          "title": "Récupérer",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "6992076b-a400-4444-a0f5-5752eb459dd5",
-          "faction": null,
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
           "title": "Récupérer, Déposer",
           "rawTitle": null,
@@ -96367,27 +95212,6 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:3a5746d9-8691-4c79-8143-40686750c2d7#title:technologie-de-pointe",
-          "title": "Technologie de pointe",
-          "rawTitle": null,
-          "titleKey": "@recovery_title",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "confirmed",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:f912aaa1-24d5-4f6c-b89f-00dc201e5c98#title:technologie-de-pointe",
           "title": "Technologie de pointe",
           "rawTitle": null,
@@ -96401,10 +95225,10 @@
           "scmdbLifecycleStatus": "unknown",
           "scmdbFirstSeen": null,
           "scmdbLastSeen": null,
-          "scmdbContractId": "f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
+          "scmdbContractId": "3a5746d9-8691-4c79-8143-40686750c2d7, f912aaa1-24d5-4f6c-b89f-00dc201e5c98",
           "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
+          "system": "Nyx / Stanton",
+          "systemSlug": "nyx/stanton",
           "isIllegal": true,
           "legalityLabel": "Illégal"
         },
