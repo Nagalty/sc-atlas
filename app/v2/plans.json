@@ -3,7 +3,7 @@
   "source": "SC Atlas Toolbox + SCMDB",
   "exportType": "public",
   "version": "4.8-1.14-sc-atlas.4",
-  "generatedAt": "2026-06-02T11:31:26.9742361+02:00",
+  "generatedAt": "2026-06-02T12:27:00.8831351+02:00",
   "totalContracts": 274,
   "totalItems": 3021,
   "uniquePlans": 1539,
@@ -674,7 +674,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "28b6825f-e1ae-4b4f-b8fe-ac31367679f0",
       "craftTag": "BP_CRAFT_klwe_sniper_energy_01_mag",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -719,50 +719,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -783,7 +741,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -887,8 +845,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -908,8 +866,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -2654,7 +2612,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -2675,7 +2633,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -7122,7 +7080,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "48acd0ca-9877-4218-9662-cb5b6f5a211a",
       "craftTag": "BP_CRAFT_klwe_smg_energy_01_mag",
-      "linkedContractsCount": 19,
+      "linkedContractsCount": 17,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -7167,50 +7125,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -7231,7 +7147,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -7356,8 +7272,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -7377,8 +7293,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -16833,7 +16749,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "87e05846-69fd-4328-a809-5fd78c31c86c",
       "craftTag": "BP_CRAFT_ccc_medium_armor_arms_01_01_01",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -16878,50 +16794,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -16942,7 +16816,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -17046,8 +16920,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -17067,8 +16941,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -17234,7 +17108,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "e940e198-e2df-4e00-96d5-5a076e6e7a36",
       "craftTag": "BP_CRAFT_ccc_medium_armor_arms_01_01_shrike",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -17279,50 +17153,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -17343,7 +17175,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -17447,8 +17279,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -17468,8 +17300,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -31405,7 +31237,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "449cdf79-e7af-4ca3-b30e-db136056a079",
       "craftTag": "BP_CRAFT_ccc_medium_armor_helmet_01_01_01",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -31450,50 +31282,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -31514,7 +31304,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -31618,8 +31408,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -31639,8 +31429,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -31806,7 +31596,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "045a6cb0-6231-46cb-97b5-fa980b95f4b2",
       "craftTag": "BP_CRAFT_ccc_medium_armor_helmet_01_01_shrike",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -31851,50 +31641,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -31915,7 +31663,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -32019,8 +31767,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -32040,8 +31788,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -43299,7 +43047,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -43320,7 +43068,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -47868,7 +47616,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "ead349bb-2dfb-47b9-b10c-f7dbff6fbb52",
       "craftTag": "BP_CRAFT_ccc_medium_armor_legs_01_01_01",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -47913,50 +47661,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -47977,7 +47683,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -48081,8 +47787,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -48102,8 +47808,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -48270,7 +47976,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "442c80ef-8e5e-411e-8364-737d5d17e4d7",
       "craftTag": "BP_CRAFT_ccc_medium_armor_legs_01_01_shrike",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -48315,50 +48021,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -48379,7 +48043,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -48483,8 +48147,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -48504,8 +48168,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -58815,7 +58479,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -58836,7 +58500,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -63982,7 +63646,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "410c4762-383c-4d52-a8ee-89c38c13219f",
       "craftTag": "BP_CRAFT_ccc_medium_armor_core_01_01_01",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -64027,50 +63691,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -64091,7 +63713,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -64195,8 +63817,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -64216,8 +63838,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -64383,7 +64005,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "7a30e39c-bb49-492f-89cf-7d9711fbb54a",
       "craftTag": "BP_CRAFT_ccc_medium_armor_core_01_01_shrike",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -64428,50 +64050,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -64492,7 +64072,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -64596,8 +64176,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -64617,8 +64197,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -90042,7 +89622,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -90063,7 +89643,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -90717,7 +90297,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "29c905e3-d7e3-413b-aa11-e739e370ec41",
       "craftTag": "BP_CRAFT_klwe_sniper_energy_01",
-      "linkedContractsCount": 16,
+      "linkedContractsCount": 14,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -90762,50 +90342,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -90826,7 +90364,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -90930,8 +90468,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -90951,8 +90489,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -96595,7 +96133,7 @@
       "hasCraft": true,
       "craftRecipeGuid": "65011209-ad59-4d41-99da-ffbc8f174863",
       "craftTag": "BP_CRAFT_klwe_smg_energy_01",
-      "linkedContractsCount": 19,
+      "linkedContractsCount": 17,
       "linkedContracts": [
         {
           "key": "scmdb:00bd1ecc-c6df-4a7c-accf-3483eb0ee469#title:aller-au-fond-des-choses",
@@ -96640,50 +96178,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "b90bd8e0-f6e0-4129-8909-91fb6dafa978",
-          "faction": "Bit Zeros",
-          "system": "Stanton",
-          "systemSlug": "stanton",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:deposer",
-          "title": "Déposer",
-          "rawTitle": null,
-          "titleKey": "@blackbox_recover_title_VE_001",
-          "source": "global_ini+scmdb",
-          "sources": [
-            "global_ini",
-            "scmdb"
-          ],
-          "scmdbStatus": "scmdb_reward_without_us_compare",
-          "scmdbLifecycleStatus": "unknown",
-          "scmdbFirstSeen": null,
-          "scmdbLastSeen": null,
-          "scmdbContractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db",
-          "faction": "Bit Zeros",
-          "system": "Nyx",
-          "systemSlug": "nyx",
-          "isIllegal": true,
-          "legalityLabel": "Illégal"
-        },
-        {
           "key": "scmdb:43a88af1-e644-480f-b0fa-928a61d3941c#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -96704,7 +96200,7 @@
         },
         {
           "key": "scmdb:7f233479-eb61-460c-b2d1-d855ce64a5d9#title:information-legendaire",
-          "title": "Information Légendaire ?",
+          "title": "Information légendaire ?",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_H_001",
           "source": "global_ini+scmdb",
@@ -96829,8 +96325,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:b90bd8e0-f6e0-4129-8909-91fb6dafa978#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -96850,8 +96346,8 @@
           "legalityLabel": "Illégal"
         },
         {
-          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer",
-          "title": "Récupérer",
+          "key": "scmdb:f4ee5c4c-db01-4b6c-930e-b266ce5b39db#title:recuperer-deposer",
+          "title": "Récupérer, Déposer",
           "rawTitle": null,
           "titleKey": "@blackbox_recover_title_VE_001",
           "source": "global_ini+scmdb",
@@ -249296,7 +248792,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -249317,7 +248813,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -249611,7 +249107,7 @@
       "linkedContracts": [
         {
           "key": "scmdb:b0da62b2-a43c-42e6-9588-a293f890ce4e",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -249632,7 +249128,7 @@
         },
         {
           "key": "scmdb:dda8c4fb-b0fd-44af-9276-b13f0c781e90",
-          "title": "Contrat de niveau Orange: Tendre une embuscade",
+          "title": "Contrat de niveau Orange : Tendre une embuscade",
           "rawTitle": null,
           "titleKey": "@Foxwell_ShipAmbush_M_title_001",
           "source": "global_ini+scmdb",
@@ -283557,8 +283053,7 @@
         "contractId": "f4ee5c4c-db01-4b6c-930e-b266ce5b39db, b90bd8e0-f6e0-4129-8909-91fb6dafa978",
         "debugName": "BitZeros_BlackBoxRecovery_Nyx_VeryEasy, BitZeros_BlackBoxRecovery_Stanton_VeryEasy",
         "resolvedTitles": [
-          "Déposer",
-          "Récupérer"
+          "Récupérer, Déposer"
         ],
         "lifecycleStatus": "unknown",
         "firstSeen": null,
@@ -283581,8 +283076,7 @@
             "firstSeen": null,
             "lastSeen": null,
             "resolvedTitles": [
-              "Déposer",
-              "Récupérer"
+              "Récupérer, Déposer"
             ],
             "inactiveReasons": null
           },
@@ -283602,8 +283096,7 @@
             "firstSeen": null,
             "lastSeen": null,
             "resolvedTitles": [
-              "Déposer",
-              "Récupérer"
+              "Récupérer, Déposer"
             ],
             "inactiveReasons": null
           }
