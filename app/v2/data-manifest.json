@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "dataset": "plans-craft",
+  "dataVersion": "4.8.1-live.11952564-sc-atlas.1",
+  "source": "SC Atlas Toolbox + SCMDB",
+  "scmdbVersion": "4.8.1-live.11952564",
+  "scAtlasExportRevision": 1,
+  "generatedAt": "2026-06-07T12:00:00+02:00",
+  "plansUrl": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/app/v2/plans.json",
+  "craftUrl": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/app/v2/craft.json"
+}
