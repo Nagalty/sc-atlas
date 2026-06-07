@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.7.0/SCAtlas-Setup-1.7.0.exe",
-  "changelog": "SC Atlas 1.7.0\n\n- Refonte de la Collection de plans avec le nouveau catalogue SC Atlas v2.\n- Ajout des données SCMDB enrichies pour les plans et recettes.\n- Affichage des contrats actifs connus associés aux plans.\n- Filtrage des contrats inactifs / non disponibles côté public.\n- Ajout des recettes de fabrication pour les plans compatibles.\n- Amélioration du suivi des plans possédés avec migration sécurisée.\n- Meilleure gestion des variantes de plans ayant le même nom.\n- Amélioration du wording public : contrats actifs, Nom US, composants de vaisseau, moteur quantum.\n- Correction des compteurs et stabilisation du cache des données Plans.\n- Polish général de la fiche détail des plans."
+"version": "1.7.1",
+"download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.7.1/SCAtlas-Setup-1.7.1.exe",
+"changelog": "SC Atlas 1.7.1\n\n- Correction du bouton Réinitialiser dans le catalogue Plans.\n- Ajout de l’affichage de la version officielle du lot Plans / Craft.\n- Lecture de la version des plans depuis data-manifest.json.\n- Nettoyage de la carte Progression du catalogue Plans.\n- Correction d’une incohérence entre la version Traduction FR enrichie et la version Plans.\n- Améliorations mineures de stabilité du catalogue Plans."
 }
