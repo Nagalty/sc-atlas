@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "defaultVariant": "enriched",
+  "variants": {
+    "standard": {
+      "id": "standard",
+      "label": "Traduction FR standard",
+      "version": "4.8.1-1.14",
+      "download_url": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/translation/fr/standard/global.ini",
+      "description": "Version fidèle au texte d’origine, sans enrichissements SC Atlas."
+    },
+    "enriched": {
+      "id": "enriched",
+      "label": "Traduction FR enrichie SC Atlas",
+      "version": "4.8.1-1.14-sc-atlas.6",
+      "download_url": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/translation/fr/enriched/global.ini",
+      "description": "Version enrichie avec ajouts QoL : plans potentiels, réputation, trajets cargo fiables et aides de lecture."
+    }
+  }
+}
