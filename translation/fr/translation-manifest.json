@@ -2,8 +2,7 @@
   "schemaVersion": 1,
   "language": "fr",
   "defaultVariant": "enriched",
-  
-  "variants": {
+    "variants": {
     "standard": {
       "id": "standard",
       "label": "Traduction FR standard",
