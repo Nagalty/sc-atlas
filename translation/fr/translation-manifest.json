@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "language": "fr",
   "defaultVariant": "enriched",
+  
     "variants": {
     "standard": {
       "id": "standard",
