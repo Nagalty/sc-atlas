@@ -1,8 +1,8 @@
 {
 "enabled": true,
 "type": "info",
-"category": "sc-atlas",
-"title": "SC Atlas 1.7.1 est en cours de déploiement",
-"date": "07/06/2026",
-"message": "SC Atlas 1.7.1 est une mise à jour de stabilisation du catalogue Plans. La version GitHub est disponible, et la version Microsoft Store arrivera après validation. Vos plans possédés ne sont pas modifiés par cette mise à jour."
+"category": "translation",
+"title": "Traduction FR enrichie 4.8.2 en préparation",
+"date": "19/06/2026",
+"message": "La traduction FR enrichie SC Atlas pour Star Citizen 4.8.2 est en cours de préparation. Elle sera mise en ligne dès que possible après vérification des fichiers. Merci pour votre patience."
 }
