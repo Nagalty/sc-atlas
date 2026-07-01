@@ -18,13 +18,13 @@
 {
 "order": 1,
 "title": "Tactical Strike Groups",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/tactical-strike-groups/01-image.webp",
+"image": "guides/tactical-strike-groups/01-image.jpg",
 "text": "Guide en 1 page"
 },
 {
 "order": 2,
 "title": "Carte Tactique Trench Runner",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/tactical-strike-groups/02-image.webp",
+"image": "guides/tactical-strike-groups/02-image.jpg",
 "text": ""
 }
 ]
@@ -42,7 +42,7 @@
 {
 "order": 1,
 "title": "",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/contrebandier-vanduul/01-image.webp",
+"image": "guides/contrebandier-vanduul/01-image.jpg",
 "text": ""
 }
 ]
@@ -60,19 +60,19 @@
 {
 "order": 1,
 "title": "Guide en 1 page",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/storm-breaker/01-image.webp",
+"image": "guides/storm-breaker/01-image.jpg",
 "text": ""
 },
 {
 "order": 2,
 "title": "Carte du Centre de données Farro",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/storm-breaker/02-image.webp",
+"image": "guides/storm-breaker/02-image.jpg",
 "text": ""
 },
 {
 "order": 3,
 "title": "Carte du complexe Lazarus",
-"image": "https://assets.blacksuninitiative.fr/sc-atlas-assets/guides/storm-breaker/03-image.webp",
+"image": "guides/storm-breaker/03-image.jpg",
 "text": ""
 }
 ]
