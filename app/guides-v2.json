@@ -1,0 +1,89 @@
+{
+"schemaVersion": 2,
+"source": "SC Atlas Toolbox",
+"exportType": "public",
+"generatedAt": "2026-07-01T00:00:00+02:00",
+"totalGuides": 3,
+"assetsBaseUrl": "https://assets.blacksuninitiative.fr/sc-atlas-assets/",
+"fallbackAssetsBaseUrl": "https://raw.githubusercontent.com/Nagalty/sc-atlas/main/app/",
+"guides": [
+{
+"order": 1,
+"id": "tactical-strike-groups",
+"title": "Tactical Strike Groups",
+"subtitle": "Guide FR de la mission Star Citizen 4.8",
+"category": "Mission",
+"gameVersion": "4.8",
+"updatedAt": "2026-05-01",
+"blockCount": 2,
+"blocks": [
+{
+"order": 1,
+"title": "Tactical Strike Groups",
+"image": "guides/tactical-strike-groups/01-image.webp",
+"fallbackImage": "guides/tactical-strike-groups/01-image.jpg",
+"text": "Guide en 1 page"
+},
+{
+"order": 2,
+"title": "Carte Tactique Trench Runner",
+"image": "guides/tactical-strike-groups/02-image.webp",
+"fallbackImage": "guides/tactical-strike-groups/02-image.jpg",
+"text": ""
+}
+]
+},
+{
+"order": 2,
+"id": "contrebandier-vanduul",
+"title": "Contrebandiers Tech Vanduul",
+"subtitle": "Guide FR de la mission Star Citizen 4.4",
+"category": "Mission",
+"gameVersion": "4.4",
+"updatedAt": "2026-05-01",
+"blockCount": 1,
+"blocks": [
+{
+"order": 1,
+"title": "",
+"image": "guides/contrebandier-vanduul/01-image.webp",
+"fallbackImage": "guides/contrebandier-vanduul/01-image.jpg",
+"text": ""
+}
+]
+},
+{
+"order": 3,
+"id": "storm-breaker",
+"title": "Storm Breaker",
+"subtitle": "Guide FR de la mission Star Citizen 4.2",
+"category": "Mission",
+"gameVersion": "4.2",
+"updatedAt": "2026-05-13",
+"blockCount": 3,
+"blocks": [
+{
+"order": 1,
+"title": "Guide en 1 page",
+"image": "guides/storm-breaker/01-image.webp",
+"fallbackImage": "guides/storm-breaker/01-image.jpg",
+"text": ""
+},
+{
+"order": 2,
+"title": "Carte du Centre de données Farro",
+"image": "guides/storm-breaker/02-image.webp",
+"fallbackImage": "guides/storm-breaker/02-image.jpg",
+"text": ""
+},
+{
+"order": 3,
+"title": "Carte du complexe Lazarus",
+"image": "guides/storm-breaker/03-image.webp",
+"fallbackImage": "guides/storm-breaker/03-image.jpg",
+"text": ""
+}
+]
+}
+]
+}
