@@ -1,6 +1,5 @@
 {
   "version": "1.8.0",
   "download_url": "https://github.com/Nagalty/sc-atlas/releases/download/v1.8.0/SCAtlas-Setup-1.8.0.exe",
-  "store_url": "ms-windows-store://home",
   "changelog": "SC Atlas 1.8.0\n\n- Nouvelle interface premium retravaillée.\n- Ajout du Journal de vol local basé sur les Game.log Star Citizen.\n- Ajout de la gestion des bindings Star Citizen.\n- Ajout des guides intégrés depuis le VPS SC Atlas.\n- Ajout de la page Données SC Atlas pour gérer les caches internes.\n- Amélioration de la Collection de plans.\n- Amélioration de la gestion des presets de personnage.\n- Séparation plus claire entre Cache du jeu et Données SC Atlas.\n- Passage complet aux données distantes SC Atlas via le VPS.\n- Correction du calcul des journées dans le Journal de vol.\n- Fusion des intervalles qui se chevauchent dans les logs.\n- Limite de sécurité sur les journées détectées.\n- Corrections responsive et nettoyage visuel avant publication."
 }
