@@ -1,8 +1,9 @@
 {
-"enabled": true,
-"type": "info",
-"category": "translation",
-"title": "Traduction FR enrichie 4.8.2 disponible",
-"date": "21/06/2026",
-"message": "La traduction FR enrichie SC Atlas pour Star Citizen 4.8.2 est maintenant disponible. Cette mise à jour conserve les enrichissements SC Atlas, dont les indicateurs [PL] et les blocs Plans potentiels."
+  "enabled": true,
+  "type": "success",
+  "category": "sc-atlas",
+  "title": "SC Atlas 1.8.0 est disponible",
+  "date": "02/07/2026",
+  "message": "Nouvelle interface, Journal de vol local, Guides intégrés, Bindings Star Citizen, Collection de plans améliorée, Presets, Données SC Atlas et corrections du calcul des journées.",
+  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.8.0"
 }
