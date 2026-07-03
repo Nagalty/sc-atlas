@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "success",
   "category": "sc-atlas",
-  "title": "SC Atlas 1.8.0 est disponible",
-  "date": "02/07/2026",
-  "message": "Nouvelle interface, Journal de vol local, Guides intégrés, Bindings Star Citizen, Collection de plans améliorée, Presets, Données SC Atlas et corrections du calcul des journées.",
-  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.8.0"
+  "title": "SC Atlas 1.8.5 est disponible",
+  "date": "03/07/2026",
+  "message": "Collection de plans retravaillée, fiche plan plus lisible, contrats et ressources de craft mieux présentés, import des plans amélioré, suivi live Game.log fiabilisé, correction de la détection de traduction et plusieurs corrections d’interface.",
+  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.8.5"
 }
