@@ -2,8 +2,8 @@
   "enabled": true,
   "type": "success",
   "category": "sc-atlas",
-  "title": "SC Atlas 1.8.5 est disponible",
-  "date": "03/07/2026",
-  "message": "Collection de plans retravaillée, fiche plan plus lisible, contrats et ressources de craft mieux présentés, import des plans amélioré, suivi live Game.log fiabilisé, correction de la détection de traduction et plusieurs corrections d’interface.",
-  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.8.5"
+  "title": "SC Atlas 1.9.0 est disponible",
+  "date": "09/07/2026",
+  "message": "Nouvel espace Guides intégré, ajout du Journal de vol, nouveau système de sauvegarde et de restauration des données, aide dédiée aux sauvegardes, améliorations d’interface et plusieurs corrections de stabilité.",
+  "url": "https://github.com/Nagalty/sc-atlas/releases/tag/v1.9.0"
 }
